@@ -2,13 +2,13 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>AI 书籍精选</title>
-    <link>http://localhost:8900/feed.xml</link>
+    <link>https://15210579725.github.io/book-rss/feed.xml</link>
     <description>由 AI 从多本书中精选的章节内容</description>
-    <atom:link href="http://localhost:8900/feed.xml" rel="self"/>
+    <atom:link href="https://15210579725.github.io/book-rss/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 12 May 2026 16:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 16:53:59 +0000</lastBuildDate>
     <item>
       <title>[能量,性,自杀线粒体] 线粒体，才是生命世界的幕后主宰</title>
       <description>十多年前，我在手术室里用光谱仪观察移植肾脏，试图破解器官存活的关键。结果让我震惊：肾脏移植后几分钟内，线粒体就决定了它的生死。如果线粒体在最初几分钟失控，肾脏必然衰竭；如果能坚持住，肾脏就能活下来。线粒体就像冷酷的判官，而且完全拒绝我们的干涉。
