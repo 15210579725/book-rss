@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 May 2026 13:12:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:15:56 +0000</lastBuildDate>
     <item>
       <title>[微信读书] 你越想赶走的念头，越会缠着你</title>
       <link>weread://reading?bId=23841226</link>
@@ -343,6 +343,42 @@
       <pubDate>Wed, 20 May 2026 13:09:52 +0000</pubDate>
     </item>
     <item>
+      <title>[推荐] 父系线粒体消失，竟是蛋白质“跳槽”害的</title>
+      <description>你的身体里藏着一套只来自母亲的遗传密码——线粒体DNA。我们从小就学到的“父母各给一半基因”，到了线粒体这里突然失效：父亲的线粒体莫名其妙被清退，从受精的那一刻起就彻底消失。为什么母亲独享这份细胞层面的“遗产”？一个反直觉的新发现终于解开了谜团。
+
+长久以来，科学家们认为父亲的线粒体是在受精后被“谋杀”的。各种清除机制，比如核酸酶的剪切、泛素标记后降解、细胞自噬，都像是专门用来消灭父系线粒体的精细武器。但俄勒冈健康与科学大学的研究团队却发现，真相可能更简单也更彻底——精子在出厂时，就没带上完整的线粒体DNA。
+
+问题的关键出在一个叫TFAM（线粒体转录因子A）的蛋白质上。TFAM对于线粒体DNA的维持、复制和转录是绝对必需的，没有它，线粒体基因就像丢掉了管理员，很快就崩解丢失。研究人员观察到，在精子细胞发育过程中，TFAM竟然发生了“叛逃”：它从线粒体转移到了细胞核。这一移位直接导致精子自身的线粒体DNA无法维持，到成熟时，精子里的mtDNA几乎消失殆尽。也就是说，精子不是带着完整的线粒体DNA被摧毁，而是本来就两手空空，根本没有多少可以遗传的东西。
+
+这完美解释了此前令人困惑的现象。父系线粒体DNA在受精卵中总是很快被清除，过去人们以为需要复杂的清除系统，实际上，精子早已主动“自废武功”。当然，进化为何要如此设计，仍有推论：一种可能是避免父系和母系线粒体在细胞里产生冲突，确保能量工厂的稳定；另一种可能与精子线粒体的任务分工有关——精子的线粒体需要为高速游动提供猛烈能量，这个过程会产生大量自由基，很容易损伤自身的DNA。把这份被“磨损”的基因带入下一代，或许得不偿失，于是干脆在基因层面提前关闭了父系线粒体的传承资格。
+
+这项发现不仅解开了母系遗传的核心谜题，也给了我们看待遗传疾病的新视角。线粒体DNA突变引起的疾病只能通过母亲传递，如果明白了TFAM是关闭父系线粒体遗传的开关，未来我们能否通过干预这个蛋白质的“跳槽”，让父亲的线粒体基因也留下？哪怕仅仅是实验上的可能性，都足以让人对生命的底层设计再多一分敬畏。
+
+（来源：https://www.sohu.com/a/730933926_121124549）
+
+如果有一天技术能打破线粒体的“母系垄断”，我们对于遗传、血缘甚至自我的理解会发生怎样的改变？</description>
+      <guid isPermaLink="false">urn:book-rss:rec:item19</guid>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[推荐] 你细胞的能量工厂，原是远古细菌？</title>
+      <description>生命的故事大约始于40亿年前，原始海洋冷却后，最后一个普遍共同祖先（LUCA）出现了。它演化出两大分支：细菌和古菌，都是无核的小细胞。然而，又过了近20亿年，一种内部藏着“能量工厂”的全新细胞横空出世——这就是真核细胞，所有动植物、真菌以及无数单细胞复杂生命的起点。这个里程碑式的转变，并非靠自己慢慢变异累积，而是通过一场大胆的“联姻”：一个古菌吞下了一个细菌，却从此结为共生体。
+
+上世纪的内共生理论已经得到广泛认同。大约22亿年前，一个属于海姆达尔古菌族的宿主，将一枚好氧的α-变形菌纳入怀中。这个被吞入的细菌非但没被消化，反而演化成了线粒体，用氧气高效产能，让宿主在毒氧环境中存活下来。更晚约16亿年前，又一场共生让部分真核生物捕获了蓝细菌，成为叶绿体，绿色植物自此登场。也就是说，我们呼吸、行走所需的能量，本质上是两个远古生命体协同运行的结果。
+
+但这场“婚礼”的结晶远比想象中惊艳。所有现代真核生物的最后共同祖先（LECA）出现在约20亿年前，其细胞的复杂程度被科学家形容为“惊人的”。LECA不仅拥有细胞核、中心粒、纤毛和过氧化物酶体，还能根据需要切换有氧或无氧代谢。它甚至有一套完整的性——减数分裂和配子融合，能形成包裹几丁质或纤维素的休眠孢囊，宛如一座微型太空舱。这个细胞内部被精密区隔，拥有内体分选复合物，可以像捏黏土般将膜掐断形成运输囊泡；它的DNA转录和蛋白质翻译被物理隔开，让基因调控变得层层叠加；它还可能携带操控自身可演化性的分子工具。
+
+为什么真核生物要演化出性？传统解释是增加遗传多样性，但更深刻的答案可能关乎生存。当有氧代谢释放活性氧破坏DNA时，减数分裂中的同源重组恰好能利用冗余信息修复损伤。也就是说，性，起初或许是一套紧急抢修系统。
+
+究竟这些复杂结构是如何按顺序获得的？学界仍在争论。有些模型认为先有细胞核和膜系统，然后才吞噬线粒体；2022年一项研究甚至提出，LECA可能不靠吞噬取食，说明吞下细菌的壮举发生在更早的祖先身上。无论序幕如何拉开，那场跨物种的结盟，终使生命爆发出全新维度。
+
+（来源：维基百科 Eukaryogenesis）
+
+下一次你深呼吸的时候，是否感觉到，体内亿万个线粒体仍延续着二十亿年前那场握手？</description>
+      <guid isPermaLink="false">urn:book-rss:rec:item18</guid>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+    </item>
+    <item>
       <title>[推荐] 惊天秘密：你的细胞里，住着“外来客”</title>
       <description>你身体里的每一个细胞，都源自一场数十亿年前的“绑架案”。我们，以及所有肉眼可见的生命，都属于真核生物。这名字的关键在于“核”——一个用膜包裹着遗传物质的细胞核。但让真核生物称霸地球的真正秘密，其实藏在“吃掉”二字里。
 
@@ -358,7 +394,7 @@
 
 （来源：维基百科“真核生物”）</description>
       <guid isPermaLink="false">urn:book-rss:rec:item17</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体基因：为何只传母不传父？</title>
@@ -376,7 +412,7 @@
 
 如果线粒体DNA也能偶尔从父亲那里“偷渡”，我们的母系族谱故事会不会需要重写？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item16</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 3/4幂律：破解生命能耗的终极密码</title>
@@ -396,7 +432,7 @@
 
 如果代谢速率是生命的“节拍器”，那人类以科技绕过生物能耗限制之后，我们的进化时钟是否已跳脱这套数学规则的掌控？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item15</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 幂律：当“平均”失去意义</title>
@@ -420,7 +456,7 @@
 
 你身边有哪些现象，可能正被幂律无声地支配？欢迎在评论区分享你的观察。</description>
       <guid isPermaLink="false">urn:book-rss:rec:item14</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 大象真的比老鼠更“省电”？</title>
@@ -438,7 +474,7 @@
 
 思考一下：如果全球变暖持续推高生物的体温，按照代谢理论，食物网里的能量传递和物种体型分布会发生怎样的连锁变化？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item13</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 标题：我们只占0.1%，却统治了地球</title>
@@ -456,7 +492,7 @@
 
 （来源：Wikipedia “Eukaryote”，有删改）</description>
       <guid isPermaLink="false">urn:book-rss:rec:item12</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 拼命进化，为什么还是原地踏步？</title>
@@ -475,7 +511,7 @@
 （来源：MBA智库百科）
 提问：在你的行业或生活中，你是否也在为“留在原地”而拼命奔跑？这种奔跑带来了真正的突破，还只是无休止的消耗？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item11</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 爸爸也能传递线粒体DNA？</title>
@@ -493,7 +529,7 @@
 
 （来源：维基百科“线粒体DNA”条目）</description>
       <guid isPermaLink="false">urn:book-rss:rec:item10</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞里的“细菌”决定了男女</title>
@@ -512,7 +548,7 @@
 
 如果线粒体原本是自由的细菌，那我们身上每一个细胞，是不是一场持续了二十亿年的合作？你还觉得自己是纯粹的人类吗？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item9</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：你命运的真正主宰？</title>
@@ -530,7 +566,7 @@
 
 当你意识到是线粒体在驱动你的欲望并倒数你的生命，你对“自我的存在”是否有了全新的理解？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item8</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 性别分化，竟是为了延缓衰老？</title>
@@ -550,7 +586,7 @@
 
 如果线粒体是决定衰老的关键，你觉得未来能通过编辑卵子的线粒体DNA，来设计出“超长待机”的人类吗？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item7</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 父亲为何亲手毁掉自己的线粒体？</title>
@@ -566,7 +602,7 @@
 
 🤔 如果两性真是为了抢夺线粒体的控制权而分化，那这场15亿年前的古老战争，是否至今仍在我们身体里悄悄延续？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item6</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 为什么你的线粒体只来自妈妈？</title>
@@ -584,7 +620,7 @@
 
 如果将来技术成熟，可以安全地修复父亲线粒体并使其稳定遗传，你觉得人类该主动改写这条古老的规则吗？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item5</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：为你供能，也催你衰老</title>
@@ -600,7 +636,7 @@
 
 如果线粒体是自带倒计时的能量源，我们能否像重设时钟一样，找回它完好无损的青春状态？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item4</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 一门连接万物的“杂学”为何如此重要？</title>
@@ -624,7 +660,7 @@
 
 如果生态系统的复杂性本身就拒绝被简化为确定性答案，那么在这样的不确定性中，我们该如何做出明天的环境决策？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item3</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 生命在用我们刚懂的科学运行</title>
@@ -644,7 +680,7 @@
 
 如果鸟能看到磁场，那我们曾经以为只属于自己的那些感官极限，真的只是“以为”吗？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item2</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] “引擎”修复了，人就能不老？</title>
@@ -664,7 +700,7 @@
 
 如果有一天，线粒体修复技术真正成熟，你最希望它帮你留住身体的哪一项功能——是清晰的记忆力，充沛的体力，还是明亮的双眼？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item1</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 自由基越多老得越快？真相可能相反</title>
@@ -681,7 +717,7 @@
 （来源：Wikipedia "Mitochondrial theory of ageing"）
 你是否会重新审视那些宣称能“高效清除自由基”的保健品？</description>
       <guid isPermaLink="false">urn:book-rss:rec:item0</guid>
-      <pubDate>Wed, 20 May 2026 13:06:04 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
     </item>
     <item>
       <title>[微信读书精选] 你越想赶走的念头，越会缠着你</title>
