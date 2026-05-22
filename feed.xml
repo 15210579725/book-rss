@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 May 2026 13:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:03:05 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>[微信读书] 为什么推荐序比正文更值得先读？</title>
@@ -545,6 +545,29 @@
       <pubDate>Fri, 22 May 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[推荐] 大象比老鼠“慢”？一个被误解百年的代谢真相</title>
+      <description>你是否觉得大象这种庞然大物为了维持庞大身躯，一定得燃烧数十倍于老鼠的能量？事实确实如此——但如果我们摊到每一克体重上，结果却完全相反。更令人困惑的是，全球无数物种的代谢速率都精准地踩在同一条曲线上，这就是生态学中最优美的规律之一：克莱伯定律（Kleiber's law）。
+
+代谢是什么？它不是某个单一的生化反应，而是维持生命运转的全部化学过程的总和。从呼吸、心跳到觅食、繁殖，所有生理活动都需要代谢...</description>
+      <content:encoded><![CDATA[你是否觉得大象这种庞然大物为了维持庞大身躯，一定得燃烧数十倍于老鼠的能量？事实确实如此——但如果我们摊到每一克体重上，结果却完全相反。更令人困惑的是，全球无数物种的代谢速率都精准地踩在同一条曲线上，这就是生态学中最优美的规律之一：克莱伯定律（Kleiber's law）。
+
+代谢是什么？它不是某个单一的生化反应，而是维持生命运转的全部化学过程的总和。从呼吸、心跳到觅食、繁殖，所有生理活动都需要代谢供能。温血动物还要额外耗能维持恒定体温，所以它们必须更频繁地进食、承担更高的生殖风险。代谢速率直接塑造着动物的行为与生活方式，而让人意外的是，它并非与体重成简单正比。
+
+1930年代，生理学家Max Kleiber收集了从小鼠到家牛等多种哺乳动物的代谢数据，发现当以“每天产生的热量（千卡）”为纵轴、“体重（千克）”为横轴，并用对数坐标绘制时，所有数据几乎完美地落在一条直线上。这意味着代谢速率（B）与体重（M）之间满足幂律关系：B ∝ M^b。令人震惊的不是这个形式，而是那条直线的斜率——b 约为 0.75，而不是1。
+
+如果代谢速率与体重成正比（b=1），那每克组织的耗能应该一样。然而现实是，大象每千克体重每天只需消耗约10千卡，而小鼠则高达100千卡以上。也就是说，小鼠的单位体重代谢率比大象快了近十倍。这就像把一块牛肉放在培养皿里，细胞层面的“燃烧速度”在小鼠体内会剧烈得多。这正是对数坐标下那条直线的秘密：当你看到一条斜线，意味着在普通坐标里它是一条弯曲的曲线，暗示着非线性的尺度效应。
+
+为什么是0.75？目前被广泛接受的解释来自分形网络理论：生物体内的资源输送网络（如血管、气管）需要在最小能量损耗下供养每个细胞，而这种网络的分形结构天然催生了3/4次幂的缩放关系。这不是巧合，而是物理约束下进化的必然。
+
+克莱伯定律像一把标尺，量出了生命世界的深层秩序。从鸽子、大鼠到奶牛甚至人类，都乖乖站在这条线附近。代码里那组原始数据仍在提醒我们：代谢不是体重的一部分，而是一个自洽的几何—物理网络在三维空间里的最优解。
+
+（来源：https://jdyeakel.github.io/teaching/ecology/summersections/demo_1_metabolism/）
+
+大动物“更节能”这个事实，有没有让你重新思考“效率”的定义？如果微观世界的燃烧速度天生不同，那衰老和寿命的谜题是否也藏在这条曲线里？]]></content:encoded>
+      <guid isPermaLink="false">urn:book-rss:rec:item20</guid>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
+    </item>
+    <item>
       <title>[推荐] 父系线粒体消失，竟是蛋白质“跳槽”害的</title>
       <description>你的身体里藏着一套只来自母亲的遗传密码——线粒体DNA。我们从小就学到的“父母各给一半基因”，到了线粒体这里突然失效：父亲的线粒体莫名其妙被清退，从受精的那一刻起就彻底消失。为什么母亲独享这份细胞层面的“遗产”？一个反直觉的新发现终于解开了谜团。
 
@@ -563,7 +586,7 @@
 
 如果有一天技术能打破线粒体的“母系垄断”，我们对于遗传、血缘甚至自我的理解会发生怎样的改变？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item19</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞的能量工厂，原是远古细菌？</title>
@@ -584,7 +607,7 @@
 
 下一次你深呼吸的时候，是否感觉到，体内亿万个线粒体仍延续着二十亿年前那场握手？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item18</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 惊天秘密：你的细胞里，住着“外来客”</title>
@@ -605,7 +628,7 @@
 
 （来源：维基百科“真核生物”）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item17</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体基因：为何只传母不传父？</title>
@@ -624,7 +647,7 @@
 
 如果线粒体DNA也能偶尔从父亲那里“偷渡”，我们的母系族谱故事会不会需要重写？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item16</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 3/4幂律：破解生命能耗的终极密码</title>
@@ -647,7 +670,7 @@
 
 如果代谢速率是生命的“节拍器”，那人类以科技绕过生物能耗限制之后，我们的进化时钟是否已跳脱这套数学规则的掌控？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item15</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 幂律：当“平均”失去意义</title>
@@ -674,7 +697,7 @@
 
 你身边有哪些现象，可能正被幂律无声地支配？欢迎在评论区分享你的观察。]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item14</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 大象真的比老鼠更“省电”？</title>
@@ -695,7 +718,7 @@
 
 思考一下：如果全球变暖持续推高生物的体温，按照代谢理论，食物网里的能量传递和物种体型分布会发生怎样的连锁变化？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item13</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 标题：我们只占0.1%，却统治了地球</title>
@@ -716,7 +739,7 @@
 
 （来源：Wikipedia “Eukaryote”，有删改）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item12</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 拼命进化，为什么还是原地踏步？</title>
@@ -738,7 +761,7 @@
 （来源：MBA智库百科）
 提问：在你的行业或生活中，你是否也在为“留在原地”而拼命奔跑？这种奔跑带来了真正的突破，还只是无休止的消耗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item11</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 爸爸也能传递线粒体DNA？</title>
@@ -759,7 +782,7 @@
 
 （来源：维基百科“线粒体DNA”条目）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item10</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞里的“细菌”决定了男女</title>
@@ -781,7 +804,7 @@
 
 如果线粒体原本是自由的细菌，那我们身上每一个细胞，是不是一场持续了二十亿年的合作？你还觉得自己是纯粹的人类吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item9</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：你命运的真正主宰？</title>
@@ -802,7 +825,7 @@
 
 当你意识到是线粒体在驱动你的欲望并倒数你的生命，你对“自我的存在”是否有了全新的理解？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item8</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 性别分化，竟是为了延缓衰老？</title>
@@ -825,7 +848,7 @@
 
 如果线粒体是决定衰老的关键，你觉得未来能通过编辑卵子的线粒体DNA，来设计出“超长待机”的人类吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item7</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 父亲为何亲手毁掉自己的线粒体？</title>
@@ -844,7 +867,7 @@
 
 🤔 如果两性真是为了抢夺线粒体的控制权而分化，那这场15亿年前的古老战争，是否至今仍在我们身体里悄悄延续？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item6</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 为什么你的线粒体只来自妈妈？</title>
@@ -865,7 +888,7 @@
 
 如果将来技术成熟，可以安全地修复父亲线粒体并使其稳定遗传，你觉得人类该主动改写这条古老的规则吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item5</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：为你供能，也催你衰老</title>
@@ -884,7 +907,7 @@
 
 如果线粒体是自带倒计时的能量源，我们能否像重设时钟一样，找回它完好无损的青春状态？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item4</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 一门连接万物的“杂学”为何如此重要？</title>
@@ -911,7 +934,7 @@
 
 如果生态系统的复杂性本身就拒绝被简化为确定性答案，那么在这样的不确定性中，我们该如何做出明天的环境决策？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item3</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 生命在用我们刚懂的科学运行</title>
@@ -934,7 +957,7 @@
 
 如果鸟能看到磁场，那我们曾经以为只属于自己的那些感官极限，真的只是“以为”吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item2</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] “引擎”修复了，人就能不老？</title>
@@ -957,7 +980,7 @@
 
 如果有一天，线粒体修复技术真正成熟，你最希望它帮你留住身体的哪一项功能——是清晰的记忆力，充沛的体力，还是明亮的双眼？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item1</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 自由基越多老得越快？真相可能相反</title>
@@ -977,7 +1000,7 @@
 （来源：Wikipedia "Mitochondrial theory of ageing"）
 你是否会重新审视那些宣称能“高效清除自由基”的保健品？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item0</guid>
-      <pubDate>Thu, 21 May 2026 13:15:56 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 13:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[微信读书精选] 为什么推荐序比正文更值得先读？</title>
