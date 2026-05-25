@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 May 2026 13:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 13:02:22 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>[微信读书] 你的身体，其实只是基因的“3D打印件”</title>
@@ -843,6 +843,52 @@
       <pubDate>Sun, 24 May 2026 13:06:35 +0000</pubDate>
     </item>
     <item>
+      <title>[推荐] 线粒体起源：你被骗了！分子钟不是时钟</title>
+      <description>当我们追溯真核生命起源，最激烈的争议之一便是：线粒体究竟是最早入驻的内共生伙伴，还是后来才被“吞入”的迟到者？长期以来，科学家把基因树中的“茎长度”当作分子钟——茎越短，意味着该基因越晚才加入祖先细胞。根据这一逻辑，线粒体基因的茎普遍短于宿主古菌基因，因此线粒体被视为晚期来客。然而，一项基于5850个标准化茎长度的全新分析，彻底动摇了这个看似坚实的计时法则。
+
+这项由Tobiasson团队开展的研...</description>
+      <content:encoded><![CDATA[当我们追溯真核生命起源，最激烈的争议之一便是：线粒体究竟是最早入驻的内共生伙伴，还是后来才被“吞入”的迟到者？长期以来，科学家把基因树中的“茎长度”当作分子钟——茎越短，意味着该基因越晚才加入祖先细胞。根据这一逻辑，线粒体基因的茎普遍短于宿主古菌基因，因此线粒体被视为晚期来客。然而，一项基于5850个标准化茎长度的全新分析，彻底动摇了这个看似坚实的计时法则。
+
+这项由Tobiasson团队开展的研究发现，茎长度的分布远非整齐划一，反而呈现出令人震惊的“双峰”反转：当茎长度小于0.3时，来自线粒体祖先α-变形菌的基因，其茎竟然比Asgard古菌基因更长；可一旦茎长度超过0.35，关系骤然逆转，细菌基因的茎反而变短了。这种统计上极为稳健的矛盾现象，直接打破了“茎短即晚到”的预期，迫使科学家重新审视：分子钟度量的，真的只有时间吗？
+
+研究团队给出的解释极具颠覆性——茎长度更多的是记录基因获得后“适应新家”的艰辛程度，而非获取的早晚。假设真核生物的宿主是一类与Asgard古菌极为相似的祖先，那么它从古菌继承的基因早已适应细胞内环境，无需大改，分子茎自然短小。但那些从细菌那里“抢来”的基因，比如线粒体带来的氧化磷酸化系统，则需要经历漫长的功能磨合，期间累积的大量适应性突变，会人为地拉长枝长，让它们看上去更古老。
+
+为了验证这一假说，研究者专门剖析了两组身份明确的基因：来自Asgard古菌的核糖体蛋白（负责遗传信息处理），以及来自α-变形菌的氧化磷酸化组分（能量代谢核心）。如果两者真的是在线粒体内共生时同步获得，茎长度理应相近。然而，数据显示它们的茎长差异超出数个数量级——核糖体蛋白的茎相对短小，氧化磷酸化基因的茎却异常延伸，恰好吻合了前者保守稳定、后者需剧烈适应的推测。类似模式也出现在蓝细菌（叶绿体祖先）的基因上，暗示这并非线粒体独有的特例，而是一种普遍的基因整合规律。
+
+就这样，真核起源的叙事从一张简单的“谁先谁后”时间表，被改写为一幅动态的镶嵌画：Asgard古菌作为核心宿主，奠定了遗传框架；多种细菌通过内共生或水平转移贡献了代谢模块，每一批外来基因都因适应新环境的难易不同，在分子树上留下了深浅不一的烙印。分子钟不是滴答作响的时计，而更像是记录“进化挣扎”的应力计。
+
+这项突破警示我们，在跨越数十亿年的演化标尺上，单凭基因树枝长来推断历史顺序是极其危险的。要逼近第一个真核细胞诞生的真相，未来必须构建整合了功能约束、速率异质性和系统发育背景的全新分析框架。
+
+（来源：scienmag.com, “Asgard Archaea Drive Eukaryogenesis Breakthrough”）
+
+如果基因的“年龄”可以被适应性的苦功伪装，那么我们自以为读懂的生命编年史，究竟有多少是真实时序，多少只是演化留下的错觉？]]></content:encoded>
+      <guid isPermaLink="false">urn:book-rss:rec:item23</guid>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[推荐] 线粒体最初是“偷”我们能量的？</title>
+      <description>我们体内的能量工厂——线粒体，几乎在所有课本里都被描述为：一个远古的古菌宿主吞下了一个能呼吸的细菌，后者沦为奴隶，反哺大量ATP，从而引发了真核生物的繁盛。但这个浪漫故事，可能完全搞反了方向。
+ 
+一篇由Zachar和Szathmáry发表在《Biology Direct》上的重量级综述，对线粒体起源的各种假说进行了一次毫不留情的系统拷问。他们提出了一套包含12个核心问题的评估框架，要求一个靠谱的...</description>
+      <content:encoded><![CDATA[我们体内的能量工厂——线粒体，几乎在所有课本里都被描述为：一个远古的古菌宿主吞下了一个能呼吸的细菌，后者沦为奴隶，反哺大量ATP，从而引发了真核生物的繁盛。但这个浪漫故事，可能完全搞反了方向。
+ 
+一篇由Zachar和Szathmáry发表在《Biology Direct》上的重量级综述，对线粒体起源的各种假说进行了一次毫不留情的系统拷问。他们提出了一套包含12个核心问题的评估框架，要求一个靠谱的假说必须能回答清楚：宿主是谁？能量从哪里来？谁先“养”谁？结果令人震惊——目前所有假说，没有一个能全部过关。
+ 
+最反直觉的一记重锤来自所谓的“前内共生体假说”。在这个版本里，故事的开头恰恰相反：真核祖先细胞自己先演化出了一个带有蛋白质进口系统的膜泡结构——就像细胞内的一个“特区”，但这个特区并不呼吸，也没有电子传递链。真正让人大跌眼镜的是能量流的原始方向：最开始，是宿主细胞把自己宝贵的ATP输送到这个特区里，用以支持它的代谢。换句话说，原始线粒体非但没给细胞充电，反而是一个耗能的“寄生虫”。
+ 
+那后来为什么反过来了呢？关键在于一个微妙却决定性的转变：一种叫做ANT（腺嘌呤核苷酸转运蛋白）的分子方向发生了反转。只有当前线粒体偶然获得了能把ATP向外泵送的ANT版本，它才第一次拥有了向宿主“纳税”的能力，从而在自然选择中一骑绝尘，彻底甩开了那些仍需要宿主供养的老式特区，以及宿主自己原有的能量系统。这背后的演化逻辑异常冷峻：一个合作联盟的稳固，有时不是因为谁先付出了善意，而是因为一方偶然学会了从对方身上榨取好处，结果反而让双方都锁死在了共生里。
+ 
+综述还精准纠正了几个流传甚广的误解：最近的分析早已排除了光合菌（如红细菌）和专性寄生菌（如立克次氏体）作为线粒体直系祖先的可能性。线粒体的祖先更可能是一个已经在细胞内居住的、来自立克次氏体目的内共生体，而不是什么远房自由生活的细菌。此外，针对“生物能膜能否直接用于吞噬”这个难以调和的矛盾，审稿人Gray提出了一种极具想象力的方案：也许古菌宿主的细胞膜上，电子传递链复合物并非均匀分布，吞噬作用只发生在专门剥离了这些复合体的特定区域——这样吞噬和能量转换就能在同一张膜上和平共处。
+ 
+用12个问题逼视所有假说后，作者冷酷地断定：我们离真相还很远。每一个看似完美的叙事，都有亟待修补的裂缝。但正是这种不留情面的自我检讨，才把线粒体起源的讨论从各家自说自话，拉回到了可检验的科学轨道上。下一次当别人告诉你“线粒体是我们的能量工厂”时，你或许可以反问一句：但工厂一开始，会不会是先靠我们输血才活下来的呢？
+ 
+（来源：Zachar I, Szathmáry E. Breath-giving cooperation: critical review of origin of mitochondria hypotheses. Biology Direct, 2017. doi: 10.1186/s13062-017-0190-5）
+
+翻开任何一个细胞生物学的经典比喻，你是不是也开始怀疑，那些理所当然的“共生童话”，到底隐藏了多少还没被倒过来的箭头？]]></content:encoded>
+      <guid isPermaLink="false">urn:book-rss:rec:item22</guid>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[推荐] 宇宙仅一次的吞并，撬动生死</title>
       <description>如果你以为线粒体只是生物课本上的“细胞发电站”，那就大错特错。在《力量、性、自杀》这本评分近乎完美的巨著中，生物学家尼克·莱恩揭开了一个反直觉的真相——线粒体的诞生，是一场跨越数十亿年的宇宙级奇点事件，它硬生生把生命劈成两种命运。
 
@@ -861,7 +907,7 @@
 
 为什么每一次呼吸，身体都在复刻数十亿年前那次致命的“吞下”？想想看，如果没有这场巧合，生命会是怎样？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item21</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 大象比老鼠“慢”？一个被误解百年的代谢真相</title>
@@ -884,7 +930,7 @@
 
 大动物“更节能”这个事实，有没有让你重新思考“效率”的定义？如果微观世界的燃烧速度天生不同，那衰老和寿命的谜题是否也藏在这条曲线里？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item20</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 父系线粒体消失，竟是蛋白质“跳槽”害的</title>
@@ -905,7 +951,7 @@
 
 如果有一天技术能打破线粒体的“母系垄断”，我们对于遗传、血缘甚至自我的理解会发生怎样的改变？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item19</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞的能量工厂，原是远古细菌？</title>
@@ -926,7 +972,7 @@
 
 下一次你深呼吸的时候，是否感觉到，体内亿万个线粒体仍延续着二十亿年前那场握手？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item18</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 惊天秘密：你的细胞里，住着“外来客”</title>
@@ -947,7 +993,7 @@
 
 （来源：维基百科“真核生物”）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item17</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体基因：为何只传母不传父？</title>
@@ -966,7 +1012,7 @@
 
 如果线粒体DNA也能偶尔从父亲那里“偷渡”，我们的母系族谱故事会不会需要重写？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item16</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 3/4幂律：破解生命能耗的终极密码</title>
@@ -989,7 +1035,7 @@
 
 如果代谢速率是生命的“节拍器”，那人类以科技绕过生物能耗限制之后，我们的进化时钟是否已跳脱这套数学规则的掌控？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item15</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 幂律：当“平均”失去意义</title>
@@ -1016,7 +1062,7 @@
 
 你身边有哪些现象，可能正被幂律无声地支配？欢迎在评论区分享你的观察。]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item14</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 大象真的比老鼠更“省电”？</title>
@@ -1037,7 +1083,7 @@
 
 思考一下：如果全球变暖持续推高生物的体温，按照代谢理论，食物网里的能量传递和物种体型分布会发生怎样的连锁变化？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item13</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 标题：我们只占0.1%，却统治了地球</title>
@@ -1058,7 +1104,7 @@
 
 （来源：Wikipedia “Eukaryote”，有删改）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item12</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 拼命进化，为什么还是原地踏步？</title>
@@ -1080,7 +1126,7 @@
 （来源：MBA智库百科）
 提问：在你的行业或生活中，你是否也在为“留在原地”而拼命奔跑？这种奔跑带来了真正的突破，还只是无休止的消耗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item11</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 爸爸也能传递线粒体DNA？</title>
@@ -1101,7 +1147,7 @@
 
 （来源：维基百科“线粒体DNA”条目）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item10</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞里的“细菌”决定了男女</title>
@@ -1123,7 +1169,7 @@
 
 如果线粒体原本是自由的细菌，那我们身上每一个细胞，是不是一场持续了二十亿年的合作？你还觉得自己是纯粹的人类吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item9</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：你命运的真正主宰？</title>
@@ -1144,7 +1190,7 @@
 
 当你意识到是线粒体在驱动你的欲望并倒数你的生命，你对“自我的存在”是否有了全新的理解？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item8</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 性别分化，竟是为了延缓衰老？</title>
@@ -1167,7 +1213,7 @@
 
 如果线粒体是决定衰老的关键，你觉得未来能通过编辑卵子的线粒体DNA，来设计出“超长待机”的人类吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item7</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 父亲为何亲手毁掉自己的线粒体？</title>
@@ -1186,7 +1232,7 @@
 
 🤔 如果两性真是为了抢夺线粒体的控制权而分化，那这场15亿年前的古老战争，是否至今仍在我们身体里悄悄延续？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item6</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 为什么你的线粒体只来自妈妈？</title>
@@ -1207,7 +1253,7 @@
 
 如果将来技术成熟，可以安全地修复父亲线粒体并使其稳定遗传，你觉得人类该主动改写这条古老的规则吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item5</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：为你供能，也催你衰老</title>
@@ -1226,7 +1272,7 @@
 
 如果线粒体是自带倒计时的能量源，我们能否像重设时钟一样，找回它完好无损的青春状态？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item4</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 一门连接万物的“杂学”为何如此重要？</title>
@@ -1253,7 +1299,7 @@
 
 如果生态系统的复杂性本身就拒绝被简化为确定性答案，那么在这样的不确定性中，我们该如何做出明天的环境决策？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item3</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 生命在用我们刚懂的科学运行</title>
@@ -1276,7 +1322,7 @@
 
 如果鸟能看到磁场，那我们曾经以为只属于自己的那些感官极限，真的只是“以为”吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item2</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] “引擎”修复了，人就能不老？</title>
@@ -1299,7 +1345,7 @@
 
 如果有一天，线粒体修复技术真正成熟，你最希望它帮你留住身体的哪一项功能——是清晰的记忆力，充沛的体力，还是明亮的双眼？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item1</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 自由基越多老得越快？真相可能相反</title>
@@ -1319,7 +1365,7 @@
 （来源：Wikipedia "Mitochondrial theory of ageing"）
 你是否会重新审视那些宣称能“高效清除自由基”的保健品？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item0</guid>
-      <pubDate>Sun, 24 May 2026 13:02:11 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
     </item>
     <item>
       <title>[微信读书精选] 你的身体，其实只是基因的“3D打印件”</title>
