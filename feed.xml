@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 26 May 2026 15:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:38:22 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>[微信读书] 你以为你在跟着感觉走，其实你的大脑在跟着指令跑</title>
@@ -931,6 +931,62 @@
       <pubDate>Mon, 25 May 2026 13:05:14 +0000</pubDate>
     </item>
     <item>
+      <title>[推荐] 吃饭比钟表更重要？</title>
+      <description>你的身体里有一套精密的时钟系统，而吃饭时间，居然能直接“重写”这套系统。一项发表在《iScience》上的研究发现，每天只在固定时间窗内进食的“限时喂养”，能让全身22种组织的线粒体相关基因实现“跨器官同步”，从而提升代谢健康。最令人震惊的是，一个名为Coq10b的基因脱颖而出，成为这场全身协调行动的“总指挥”。
+
+**从各自为政到集体合唱**
+
+研究团队用老鼠做实验，一组随意进食，另一组每天只在...</description>
+      <content:encoded><![CDATA[你的身体里有一套精密的时钟系统，而吃饭时间，居然能直接“重写”这套系统。一项发表在《iScience》上的研究发现，每天只在固定时间窗内进食的“限时喂养”，能让全身22种组织的线粒体相关基因实现“跨器官同步”，从而提升代谢健康。最令人震惊的是，一个名为Coq10b的基因脱颖而出，成为这场全身协调行动的“总指挥”。
+
+**从各自为政到集体合唱**
+
+研究团队用老鼠做实验，一组随意进食，另一组每天只在固定9小时内进食。他们发现，限时喂养的作用并不是让单个器官内的线粒体基因更同步，而是让不同器官（如心脏、肝脏、肌肉）的线粒体基因在时间表达上对齐，开始“齐声合唱”。一个叫“全身同步评分”的指标直观地展示了这种变化：随意进食时，仅有23个线粒体基因达到高度同步水平；而限时喂养后，这个数字飙升到89个，翻了近四倍。
+
+更戏剧性的变化是领导权的转移。随意进食时，大脑中的主时钟（视交叉上核）是网络的中心，肝脏处于边缘。但实行限时喂养后，肝脏取代主时钟成为核心枢纽，大脑主时钟反而退居边缘。这说明，固定的吃饭时间发出强烈的代谢信号，直接指挥了代谢器官，压倒了纯粹的光照信号。
+
+**从两班倒到四部门轮值**
+
+研究发现，这些同步的线粒体基因在表达时间上形成了“波”。随意进食时，它们只遵循两波节奏，大致对应白天和黑夜。而限时喂养后，节奏被重塑为四波，精确对应着进食-禁食周期的不同阶段：开始进食、进食高峰、开始禁食、长时间禁食。这就像公司从简单的“两班倒”，升级为分工更精细的“四部门轮值”，每个阶段都有不同的线粒体功能被激活，从辅酶Q合成到线粒体自噬，配合得天衣无缝。
+
+**Coq10b：双重信号的整合大师**
+
+在所有基因中，Coq10b的同步性表现最为抢眼，甚至超过了某些核心生物钟基因。它编码的蛋白参与细胞能量站——线粒体的核心工作。研究发现，Coq10b的表达时间由“什么时候吃”决定，而非“光照明暗”。但当吃饭时间与生物钟冲突时（如在休息期进食），它的节律幅度就上不去。更关键的是，科学家在Coq10b的基因开关区域，发现了同时接收生物钟信号和代谢信号的双重指令位点。这使得Coq10b成为一个理想的信号整合器，将来自环境的光照信息和来自进食的代谢信息融合，输出一个统一的节律，从而协调全身的线粒体网络。
+
+这项研究有力地支持了一个观点：**什么时候吃，可能和吃什么同样重要。** 它无需计算卡路里，只需将一日三餐固定在某个时段，就能让全身数万亿细胞内的“能量工厂”步调一致，进入更高效的代谢状态。虽然这项研究来自雄性夜行动物，距离直接套用在人类身上尚有距离，但它无疑为我们的健康管理提供了一个极具诱惑的新视角。
+
+（来源：https://www.jdon.com/92060-time-restricted-feeding-synchronizes-mitochondrial.html）
+
+那么，你愿意尝试为你的细胞设定一个固定的上下班时间吗？]]></content:encoded>
+      <guid isPermaLink="false">urn:book-rss:rec:item25</guid>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[推荐] 为什么猫的能耗不是老鼠的100倍？</title>
+      <description>假如一只猫的体重是老鼠的100倍，你或许会本能地认为，它一天消耗的能量也该是老鼠的100倍。但真实数据却令人意外：猫的能耗大约只有老鼠的32倍。这个反直觉的现象背后，隐藏着生命体一个普遍的能耗法则——克莱伯定律。
+
+1930年代，生物学家马克斯·克莱伯在大量动物代谢实验中发现，绝大多数生物的基础代谢率并不随体重线性增长，而是与体重的3/4次方成正比。写成公式便是：基础代谢率 ≈ 70 × 体重^(...</description>
+      <content:encoded><![CDATA[假如一只猫的体重是老鼠的100倍，你或许会本能地认为，它一天消耗的能量也该是老鼠的100倍。但真实数据却令人意外：猫的能耗大约只有老鼠的32倍。这个反直觉的现象背后，隐藏着生命体一个普遍的能耗法则——克莱伯定律。
+
+1930年代，生物学家马克斯·克莱伯在大量动物代谢实验中发现，绝大多数生物的基础代谢率并不随体重线性增长，而是与体重的3/4次方成正比。写成公式便是：基础代谢率 ≈ 70 × 体重^(3/4) 千卡/天。当体重变为原来的100倍时，100^(3/4) 刚好约等于32，于是100倍的体重只需32倍的能量来维持。
+
+这个发现之所以令人惊讶，是因为它彻底推翻了之前盛行的“表面积定律”。19世纪末，科学家根据简单的几何推理认为，生物通过体表散热，而热量在全身质量中产生，为避免过热，代谢率应该与体表面积同步增长，即服从2/3次方。毕竟体积（质量）增长时，表面积增长得更慢，2/3次方正好平衡了二者的快慢差异。但克莱伯的数据显示，3/4次方比2/3次方贴合得更完美，这让当时的研究者大感困惑。
+
+真正让3/4次方从经验公式变为一个漂亮理论的，是后来的分形网络模型。韦斯特、布朗和恩奎斯特（WBE）提出，代谢率的3/4次方源于生物体内输送养分的管道系统——无论是动物的血管、植物的维管还是昆虫的气管，都呈现出一种不断分叉的自相似结构。理论的核心很简单：代谢率正比于养分输送的总流量，而总流量又由最末端微小管道的总数决定。为了用最少的能量损耗来驱动流体，演化形成了一种精妙的分配策略：整体血容量与体重保持恒定比例，而末端管道（如毛细血管）的总体积在不同体型的个体中几乎不变。在这种条件下，管道分枝的层数会自动调整，使得末端管道的数量和体重的3/4次方成正比，从而代谢率也随之呈3/4次方增长。
+
+更迷人之处在于，这个规律并不仅限于动物。后来的研究表明，植物的代谢也遵循同样的3/4次方标度。从小鼠到大象，从雏菊到巨杉，生命仿佛都踩在一条共同的数学韵律上。
+
+当然，克莱伯定律至今并非毫无争议。有些学者指出，不同生物的体形差异会导致表面积与代谢率的真实关系更加复杂，而WBE模型中的某些假设（例如将血管简化为刚性圆管）也受到挑战。但无论如何，这条定律已经彻底改变了我们看待生命规模的方式：它揭示了，在演化塑造的错综复杂性之下，生命运行的成本遵循着极其简洁的幂次法则。
+
+下一次看到小猫扑食时，不妨想一想：它不是用100倍的能量，而只用32倍，就撑起了一个比老鼠庞大百倍的世界。这背后的分形智慧，或许也在悄悄定义着你身体的能耗上限。
+
+（来源：Wikipedia - Kleiber's law）
+
+思考引导：如果动物的能耗遵循3/4次方定律，那么城市、公司甚至整个经济体的“代谢率”是否也隐含着类似的规模法则？]]></content:encoded>
+      <guid isPermaLink="false">urn:book-rss:rec:item24</guid>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+    </item>
+    <item>
       <title>[推荐] 线粒体起源：你被骗了！分子钟不是时钟</title>
       <description>当我们追溯真核生命起源，最激烈的争议之一便是：线粒体究竟是最早入驻的内共生伙伴，还是后来才被“吞入”的迟到者？长期以来，科学家把基因树中的“茎长度”当作分子钟——茎越短，意味着该基因越晚才加入祖先细胞。根据这一逻辑，线粒体基因的茎普遍短于宿主古菌基因，因此线粒体被视为晚期来客。然而，一项基于5850个标准化茎长度的全新分析，彻底动摇了这个看似坚实的计时法则。
 
@@ -951,7 +1007,7 @@
 
 如果基因的“年龄”可以被适应性的苦功伪装，那么我们自以为读懂的生命编年史，究竟有多少是真实时序，多少只是演化留下的错觉？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item23</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体最初是“偷”我们能量的？</title>
@@ -974,7 +1030,7 @@
 
 翻开任何一个细胞生物学的经典比喻，你是不是也开始怀疑，那些理所当然的“共生童话”，到底隐藏了多少还没被倒过来的箭头？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item22</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 宇宙仅一次的吞并，撬动生死</title>
@@ -995,7 +1051,7 @@
 
 为什么每一次呼吸，身体都在复刻数十亿年前那次致命的“吞下”？想想看，如果没有这场巧合，生命会是怎样？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item21</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 大象比老鼠“慢”？一个被误解百年的代谢真相</title>
@@ -1018,7 +1074,7 @@
 
 大动物“更节能”这个事实，有没有让你重新思考“效率”的定义？如果微观世界的燃烧速度天生不同，那衰老和寿命的谜题是否也藏在这条曲线里？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item20</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 父系线粒体消失，竟是蛋白质“跳槽”害的</title>
@@ -1039,7 +1095,7 @@
 
 如果有一天技术能打破线粒体的“母系垄断”，我们对于遗传、血缘甚至自我的理解会发生怎样的改变？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item19</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞的能量工厂，原是远古细菌？</title>
@@ -1060,7 +1116,7 @@
 
 下一次你深呼吸的时候，是否感觉到，体内亿万个线粒体仍延续着二十亿年前那场握手？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item18</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 惊天秘密：你的细胞里，住着“外来客”</title>
@@ -1081,7 +1137,7 @@
 
 （来源：维基百科“真核生物”）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item17</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体基因：为何只传母不传父？</title>
@@ -1100,7 +1156,7 @@
 
 如果线粒体DNA也能偶尔从父亲那里“偷渡”，我们的母系族谱故事会不会需要重写？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item16</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 3/4幂律：破解生命能耗的终极密码</title>
@@ -1123,7 +1179,7 @@
 
 如果代谢速率是生命的“节拍器”，那人类以科技绕过生物能耗限制之后，我们的进化时钟是否已跳脱这套数学规则的掌控？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item15</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 幂律：当“平均”失去意义</title>
@@ -1150,7 +1206,7 @@
 
 你身边有哪些现象，可能正被幂律无声地支配？欢迎在评论区分享你的观察。]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item14</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 大象真的比老鼠更“省电”？</title>
@@ -1171,7 +1227,7 @@
 
 思考一下：如果全球变暖持续推高生物的体温，按照代谢理论，食物网里的能量传递和物种体型分布会发生怎样的连锁变化？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item13</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 标题：我们只占0.1%，却统治了地球</title>
@@ -1192,7 +1248,7 @@
 
 （来源：Wikipedia “Eukaryote”，有删改）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item12</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 拼命进化，为什么还是原地踏步？</title>
@@ -1214,7 +1270,7 @@
 （来源：MBA智库百科）
 提问：在你的行业或生活中，你是否也在为“留在原地”而拼命奔跑？这种奔跑带来了真正的突破，还只是无休止的消耗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item11</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 爸爸也能传递线粒体DNA？</title>
@@ -1235,7 +1291,7 @@
 
 （来源：维基百科“线粒体DNA”条目）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item10</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞里的“细菌”决定了男女</title>
@@ -1257,7 +1313,7 @@
 
 如果线粒体原本是自由的细菌，那我们身上每一个细胞，是不是一场持续了二十亿年的合作？你还觉得自己是纯粹的人类吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item9</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：你命运的真正主宰？</title>
@@ -1278,7 +1334,7 @@
 
 当你意识到是线粒体在驱动你的欲望并倒数你的生命，你对“自我的存在”是否有了全新的理解？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item8</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 性别分化，竟是为了延缓衰老？</title>
@@ -1301,7 +1357,7 @@
 
 如果线粒体是决定衰老的关键，你觉得未来能通过编辑卵子的线粒体DNA，来设计出“超长待机”的人类吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item7</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 父亲为何亲手毁掉自己的线粒体？</title>
@@ -1320,7 +1376,7 @@
 
 🤔 如果两性真是为了抢夺线粒体的控制权而分化，那这场15亿年前的古老战争，是否至今仍在我们身体里悄悄延续？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item6</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 为什么你的线粒体只来自妈妈？</title>
@@ -1341,7 +1397,7 @@
 
 如果将来技术成熟，可以安全地修复父亲线粒体并使其稳定遗传，你觉得人类该主动改写这条古老的规则吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item5</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：为你供能，也催你衰老</title>
@@ -1360,7 +1416,7 @@
 
 如果线粒体是自带倒计时的能量源，我们能否像重设时钟一样，找回它完好无损的青春状态？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item4</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 一门连接万物的“杂学”为何如此重要？</title>
@@ -1387,7 +1443,7 @@
 
 如果生态系统的复杂性本身就拒绝被简化为确定性答案，那么在这样的不确定性中，我们该如何做出明天的环境决策？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item3</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 生命在用我们刚懂的科学运行</title>
@@ -1410,7 +1466,7 @@
 
 如果鸟能看到磁场，那我们曾经以为只属于自己的那些感官极限，真的只是“以为”吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item2</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] “引擎”修复了，人就能不老？</title>
@@ -1433,7 +1489,7 @@
 
 如果有一天，线粒体修复技术真正成熟，你最希望它帮你留住身体的哪一项功能——是清晰的记忆力，充沛的体力，还是明亮的双眼？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item1</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 自由基越多老得越快？真相可能相反</title>
@@ -1453,7 +1509,7 @@
 （来源：Wikipedia "Mitochondrial theory of ageing"）
 你是否会重新审视那些宣称能“高效清除自由基”的保健品？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item0</guid>
-      <pubDate>Mon, 25 May 2026 13:02:22 +0000</pubDate>
+      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>[微信读书精选] 你以为你在跟着感觉走，其实你的大脑在跟着指令跑</title>
