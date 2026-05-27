@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 27 May 2026 13:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 13:05:28 +0000</lastBuildDate>
     <ttl>30</ttl>
     <item>
       <title>[微信读书] 你的记忆是个骗子</title>
@@ -1031,6 +1031,52 @@
       <pubDate>Tue, 26 May 2026 16:01:02 +0000</pubDate>
     </item>
     <item>
+      <title>[推荐] 你的细胞核，藏着4000扇“暗门”</title>
+      <description>细胞核是第一个被发现的细胞器，而它的首张“画像”出自安东尼·范·列文虎克之手——他画下了鲑鱼红细胞里一个不透光的空腔，当时没人知道那是什么。直到1831年，罗伯特·布朗在兰花细胞中再次注意到这个结构，取名“nucleus”。再后来，奥斯卡·赫特维希用海胆受精实验证明，精子的细胞核会与卵子的细胞核融合，由此揭开细胞核承载遗传信息的真相。
+
+这个被双层膜紧紧包裹的“司令塔”，其实远没有看上去那样密不透...</description>
+      <content:encoded><![CDATA[细胞核是第一个被发现的细胞器，而它的首张“画像”出自安东尼·范·列文虎克之手——他画下了鲑鱼红细胞里一个不透光的空腔，当时没人知道那是什么。直到1831年，罗伯特·布朗在兰花细胞中再次注意到这个结构，取名“nucleus”。再后来，奥斯卡·赫特维希用海胆受精实验证明，精子的细胞核会与卵子的细胞核融合，由此揭开细胞核承载遗传信息的真相。
+
+这个被双层膜紧紧包裹的“司令塔”，其实远没有看上去那样密不透风。核膜厚约70～80纳米，却布满核孔——单是哺乳类细胞核膜上，就有3000到4000个。每个核孔直径100纳米上下，由约50至100种蛋白质搭成八重对称的甜甜圈状环，但真正让分子自由穿行的水通道仅9纳米宽。水溶性小分子来去自如，大如蛋白质、核糖体亚基等必须靠“核转运蛋白”护送，内输、外输的指令严如海关。脂溶性激素如皮质醇反倒能轻易穿透膜层，直接入核与受体结合，一转身就变成转录因子，开关基因。
+
+核内并非一锅粥。承载DNA的染色质分两类：松散的真染色质上基因活跃，紧密的异染色质多处于沉默状态。它们并排分布在自己的染色体领域内，活跃基因偏爱待在领域边缘。核仁则是一座没有膜的“核糖体工厂”，以rDNA为核心，经RNA聚合酶Ⅰ转录出rRNA前体，再切割、组装成核糖体的5.8S、18S和28S亚单位，最后经由核孔挤出，成为细胞质里合成蛋白质的生产线。
+
+比核仁更小的卡哈尔体、早幼粒细胞白血病体等次核体，同样无膜，却在mRNA剪接、端粒维护中扮演特定角色。而核膜内衬的核纤层——由层蛋白编织的纤维网——既支撑核形，也锚定染色质与核孔。一旦层蛋白基因突变，纤维聚合出乱子，便可能引发早衰症，让细胞乃至整个人体加速衰老。
+
+细胞核最精妙的设计，或许在于它强行分离了转录与转译。在核内，DNA被转录成前体mRNA，经过加帽、剪接和加尾三道工序，才允许出境。未经剪接的mRNA若混入细胞质被核糖体翻译，会产生错误甚至有毒的蛋白质。同样，糖酵解调节中，己糖激酶可被短期“关押”进细胞核以抑制基因表达；NF-κB也要携带核定位信号穿过核孔，才能开启发炎相关基因。这种时空隔离让真核生物拥有了原核生物无法企及的调控精度。
+
+看似简单的分隔，实则是进化布下的一整套分子秩序。细胞核，远不只是存放DNA的保险箱，而是一座时刻进行动态确认、层层筛检的指令枢纽。
+
+（来源：https://zh.wikipedia.org/zh-hans/细胞核）
+
+如果核孔突然全部堵塞，细胞还能正常运转几分钟？衰老和疾病，是否就始自这些微小暗门的失灵？]]></content:encoded>
+      <guid isPermaLink="false">urn:book-rss:rec:item27</guid>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[推荐] 每天自杀数百亿细胞，你才能活着</title>
+      <description>一个成年人体内，每天有500亿到700亿个细胞主动结束自己的生命。8到14岁的儿童，这个数字也高达200到300亿。这并非疾病，而是一种精心编排的“程序性死亡”——细胞凋亡。没有这场持续一生的自我牺牲，我们连手指都分不开，甚至可能根本无法存活。
+
+细胞凋亡和常见的细胞坏死截然不同。坏死就像一场意外爆炸，细胞因急性损伤破裂，内容物溅出，常常引发炎症、牵连周围。而凋亡更像一次干净利落的拆解：细胞先是收...</description>
+      <content:encoded><![CDATA[一个成年人体内，每天有500亿到700亿个细胞主动结束自己的生命。8到14岁的儿童，这个数字也高达200到300亿。这并非疾病，而是一种精心编排的“程序性死亡”——细胞凋亡。没有这场持续一生的自我牺牲，我们连手指都分不开，甚至可能根本无法存活。
+
+细胞凋亡和常见的细胞坏死截然不同。坏死就像一场意外爆炸，细胞因急性损伤破裂，内容物溅出，常常引发炎症、牵连周围。而凋亡更像一次干净利落的拆解：细胞先是收缩、起泡，接着染色体凝集、DNA断裂，最后碎成一个个被膜包裹的“凋亡小体”。游荡在组织中的吞噬细胞会迅速吞掉这些碎片，整个过程毫无痕迹，不会对邻居造成半点干扰。正因如此，凋亡成为多细胞生物最优雅的自我更新方式。
+
+我们最早在娘胎里就享受过凋亡的好处。胚胎发育到第5周，手掌还是一块扁平的“蹼板”。等到手指间的细胞大规模凋亡，才算真正拥有分开的五指。如果这个程序稍有差池，便可能留下并指畸形。类似的“雕刻”还发生在眼睛形成中——玻璃体和晶状体里多余细胞的消失，让光线得以顺利穿过。蝌蚪褪去尾巴变成蛙、昆虫羽化彻底改头换面，背后也都是同一套定时自杀程序在运转。
+
+即便成年后，凋亡仍在暗中维持秩序。皮肤表皮、鼻腔嗅上皮不断更替，免疫系统用它淘汰失效或危险的细胞，自然杀手细胞甚至能诱导癌细胞走上这条路。更惊人的是，大约95%的生殖细胞在成熟前就被凋亡淘汰，唯有通过严苛质检的精子和卵子才有机会传递生命。有人甚至认为，人类大脑为了保持稳定体积，抑制了某些神经细胞本该发生的凋亡——如果让凋亡在脑内肆意进行，后果可能不堪设想。
+
+凋亡一旦启动就无法逆转，因此触发机制极其审慎。目前已知两条主要通路：外源性途径，可以看作“他杀指令”——肿瘤坏死因子等外部信号与细胞表面的死亡受体结合，拉响警报并激活一连串的“执行酶”（胱天蛋白酶）；内源性途径则是“自我了断”——细胞感受到辐射、缺氧、病毒感染等压力，线粒体释放出细胞色素c等信号分子，同样把执行酶唤醒。两种途径最后汇成一道，执行酶无差别降解蛋白质，细胞在数十分钟内就被有序拆解。微弱的信号往往足以触发，因为线粒体充当着信号的扩音器。
+
+凋亡的天平一旦失衡，疾病便接踵而至。凋亡过多，组织会萎缩；凋亡不足，细胞可能失控增殖，这正是许多癌症的核心特征。而阿尔茨海默症、帕金森病等神经退行性疾病中，过度凋亡又在悄无声息地蚕食神经元。因此，如何精准地让癌细胞“自愿赴死”，或阻止不该凋亡的细胞自我了断，成为当下最炙手可热的研究方向。2002年，发现凋亡基因调控机制的三位科学家获得诺贝尔生理学或医学奖，足见这个小小细胞的自杀程序，牵动着整个人体王朝的兴衰。
+
+（来源：维基百科-细胞凋亡）
+
+如果有一天，我们能精准控制细胞凋亡的开与关，你最希望它先解决哪一种疾病？]]></content:encoded>
+      <guid isPermaLink="false">urn:book-rss:rec:item26</guid>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
+    </item>
+    <item>
       <title>[推荐] 吃饭比钟表更重要？</title>
       <description>你的身体里有一套精密的时钟系统，而吃饭时间，居然能直接“重写”这套系统。一项发表在《iScience》上的研究发现，每天只在固定时间窗内进食的“限时喂养”，能让全身22种组织的线粒体相关基因实现“跨器官同步”，从而提升代谢健康。最令人震惊的是，一个名为Coq10b的基因脱颖而出，成为这场全身协调行动的“总指挥”。
 
@@ -1059,7 +1105,7 @@
 
 那么，你愿意尝试为你的细胞设定一个固定的上下班时间吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item25</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 为什么猫的能耗不是老鼠的100倍？</title>
@@ -1084,7 +1130,7 @@
 
 思考引导：如果动物的能耗遵循3/4次方定律，那么城市、公司甚至整个经济体的“代谢率”是否也隐含着类似的规模法则？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item24</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体起源：你被骗了！分子钟不是时钟</title>
@@ -1107,7 +1153,7 @@
 
 如果基因的“年龄”可以被适应性的苦功伪装，那么我们自以为读懂的生命编年史，究竟有多少是真实时序，多少只是演化留下的错觉？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item23</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体最初是“偷”我们能量的？</title>
@@ -1130,7 +1176,7 @@
 
 翻开任何一个细胞生物学的经典比喻，你是不是也开始怀疑，那些理所当然的“共生童话”，到底隐藏了多少还没被倒过来的箭头？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item22</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 宇宙仅一次的吞并，撬动生死</title>
@@ -1151,7 +1197,7 @@
 
 为什么每一次呼吸，身体都在复刻数十亿年前那次致命的“吞下”？想想看，如果没有这场巧合，生命会是怎样？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item21</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 大象比老鼠“慢”？一个被误解百年的代谢真相</title>
@@ -1174,7 +1220,7 @@
 
 大动物“更节能”这个事实，有没有让你重新思考“效率”的定义？如果微观世界的燃烧速度天生不同，那衰老和寿命的谜题是否也藏在这条曲线里？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item20</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 父系线粒体消失，竟是蛋白质“跳槽”害的</title>
@@ -1195,7 +1241,7 @@
 
 如果有一天技术能打破线粒体的“母系垄断”，我们对于遗传、血缘甚至自我的理解会发生怎样的改变？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item19</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞的能量工厂，原是远古细菌？</title>
@@ -1216,7 +1262,7 @@
 
 下一次你深呼吸的时候，是否感觉到，体内亿万个线粒体仍延续着二十亿年前那场握手？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item18</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 惊天秘密：你的细胞里，住着“外来客”</title>
@@ -1237,7 +1283,7 @@
 
 （来源：维基百科“真核生物”）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item17</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体基因：为何只传母不传父？</title>
@@ -1256,7 +1302,7 @@
 
 如果线粒体DNA也能偶尔从父亲那里“偷渡”，我们的母系族谱故事会不会需要重写？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item16</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 3/4幂律：破解生命能耗的终极密码</title>
@@ -1279,7 +1325,7 @@
 
 如果代谢速率是生命的“节拍器”，那人类以科技绕过生物能耗限制之后，我们的进化时钟是否已跳脱这套数学规则的掌控？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item15</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 幂律：当“平均”失去意义</title>
@@ -1306,7 +1352,7 @@
 
 你身边有哪些现象，可能正被幂律无声地支配？欢迎在评论区分享你的观察。]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item14</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 大象真的比老鼠更“省电”？</title>
@@ -1327,7 +1373,7 @@
 
 思考一下：如果全球变暖持续推高生物的体温，按照代谢理论，食物网里的能量传递和物种体型分布会发生怎样的连锁变化？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item13</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 标题：我们只占0.1%，却统治了地球</title>
@@ -1348,7 +1394,7 @@
 
 （来源：Wikipedia “Eukaryote”，有删改）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item12</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 拼命进化，为什么还是原地踏步？</title>
@@ -1370,7 +1416,7 @@
 （来源：MBA智库百科）
 提问：在你的行业或生活中，你是否也在为“留在原地”而拼命奔跑？这种奔跑带来了真正的突破，还只是无休止的消耗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item11</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 爸爸也能传递线粒体DNA？</title>
@@ -1391,7 +1437,7 @@
 
 （来源：维基百科“线粒体DNA”条目）]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item10</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 你细胞里的“细菌”决定了男女</title>
@@ -1413,7 +1459,7 @@
 
 如果线粒体原本是自由的细菌，那我们身上每一个细胞，是不是一场持续了二十亿年的合作？你还觉得自己是纯粹的人类吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item9</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：你命运的真正主宰？</title>
@@ -1434,7 +1480,7 @@
 
 当你意识到是线粒体在驱动你的欲望并倒数你的生命，你对“自我的存在”是否有了全新的理解？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item8</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 性别分化，竟是为了延缓衰老？</title>
@@ -1457,7 +1503,7 @@
 
 如果线粒体是决定衰老的关键，你觉得未来能通过编辑卵子的线粒体DNA，来设计出“超长待机”的人类吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item7</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 父亲为何亲手毁掉自己的线粒体？</title>
@@ -1476,7 +1522,7 @@
 
 🤔 如果两性真是为了抢夺线粒体的控制权而分化，那这场15亿年前的古老战争，是否至今仍在我们身体里悄悄延续？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item6</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 为什么你的线粒体只来自妈妈？</title>
@@ -1497,7 +1543,7 @@
 
 如果将来技术成熟，可以安全地修复父亲线粒体并使其稳定遗传，你觉得人类该主动改写这条古老的规则吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item5</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 线粒体：为你供能，也催你衰老</title>
@@ -1516,7 +1562,7 @@
 
 如果线粒体是自带倒计时的能量源，我们能否像重设时钟一样，找回它完好无损的青春状态？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item4</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 一门连接万物的“杂学”为何如此重要？</title>
@@ -1543,7 +1589,7 @@
 
 如果生态系统的复杂性本身就拒绝被简化为确定性答案，那么在这样的不确定性中，我们该如何做出明天的环境决策？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item3</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 生命在用我们刚懂的科学运行</title>
@@ -1566,7 +1612,7 @@
 
 如果鸟能看到磁场，那我们曾经以为只属于自己的那些感官极限，真的只是“以为”吗？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item2</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] “引擎”修复了，人就能不老？</title>
@@ -1589,7 +1635,7 @@
 
 如果有一天，线粒体修复技术真正成熟，你最希望它帮你留住身体的哪一项功能——是清晰的记忆力，充沛的体力，还是明亮的双眼？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item1</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[推荐] 自由基越多老得越快？真相可能相反</title>
@@ -1609,7 +1655,7 @@
 （来源：Wikipedia "Mitochondrial theory of ageing"）
 你是否会重新审视那些宣称能“高效清除自由基”的保健品？]]></content:encoded>
       <guid isPermaLink="false">urn:book-rss:rec:item0</guid>
-      <pubDate>Tue, 26 May 2026 15:38:22 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 13:05:28 +0000</pubDate>
     </item>
     <item>
       <title>[微信读书精选] 你的记忆是个骗子</title>
